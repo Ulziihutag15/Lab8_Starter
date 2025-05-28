@@ -6,6 +6,6 @@ Service workers enable graceful degradation for network-dependent features by pr
 
 [pwa.png](assets/images/screenshots/pwa.png)  
 
+[Page URL](https://ulziihutag15.github.io/Lab8_Starter/)  
 
-
-
+Student: Ulziikhutag Davaasuren 
